@@ -1,6 +1,6 @@
 # **Simple Spotify Clone Project**
 
-## 🎵 [Live Demo](#) 
+## 🎵 [Live Demo](https://krypto-etox.github.io/Spotify-Clone/) 
 
 This repository contains a Simple Spotify Clone project built using HTML, CSS, and JavaScript. The project aims to provide a learning opportunity for educational purposes by mimicking the basic functionality and layout of the Spotify music streaming service.
 
